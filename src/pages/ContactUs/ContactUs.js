@@ -4,7 +4,7 @@ function TestSeries (){
 return(
     <div style={divstyle}>
     <h2>Contact us</h2>
-    </div>
+       </div>
 )
 }
 
